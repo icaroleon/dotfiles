@@ -54,7 +54,7 @@
   defaultBranch = master
 [user]
 	email = icvieiramg@gmail.com
-	name = Icaro Leon
+	name = icaro leon
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
